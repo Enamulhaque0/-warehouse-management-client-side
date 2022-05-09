@@ -8,7 +8,7 @@ const Address = () => {
         <h1 className="title-product mx-auto">Our Address</h1>
         <div className="row address-container m-0">
           <div className="col-lg-3 col-12 address ">
-            <h2 >Al Haramain Dubai </h2>
+            <h2 >Al Modina Dubai </h2>
             <p>
               Sales Head Office, P.O. Box 13754, Dubai, United Arab Emirates{" "}
               <br />
@@ -16,7 +16,7 @@ const Address = () => {
             </p>
           </div>
           <div className="col-lg-3 col-12 address">
-            <h2 >Al Haramain Bangladesh  </h2>
+            <h2 >Al Modina Bangladesh  </h2>
             <p>
               House#13, Road#19, Sector#07, Uttara, Dhaka-1230, Bangladesh.{" "}
               <br />
