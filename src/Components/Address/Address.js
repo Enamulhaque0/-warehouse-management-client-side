@@ -26,10 +26,10 @@ const Address = () => {
             </p>
           </div>
           <div className="col-lg-3 col-12 address">
-            <h2 >Al Haramain London </h2>
+            <h2 >Al Modina Austrilia </h2>
             <p>
               4 Corners Distribution L.T.D. Unit 3B Katella Trading Estate 10A
-              River Road, Barking, Essex IG11 ODG , Essex United Kingdom England
+              River Road, Barking, Essex IG11 ODG , Austrilia
             </p>
           </div>
         </div>
