@@ -18,7 +18,7 @@ const Address = () => {
           <div className="col-lg-3 col-12 address">
             <h2 >Al Haramain Bangladesh  </h2>
             <p>
-              House#12, Road#19, Sector#07, Uttara, Dhaka-1230, Bangladesh.{" "}
+              House#13, Road#19, Sector#07, Uttara, Dhaka-1230, Bangladesh.{" "}
               <br />
               KA-244, Kuril, Jamuna Future Park, GB-001 Southeast ground floor,
               Vatara, Dhaka-1229
