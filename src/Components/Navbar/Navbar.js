@@ -18,7 +18,7 @@ const Navbar = () => {
           <a>
             <h2>
               <GiDelicatePerfume className=" " />
-              <span className="nav-name-text">AL HARAMAIN  <br /> <span className="since">1970</span> </span>
+              <span className="nav-name-text">AL MADINA  <br /> <span className="since">1970</span> </span>
             </h2>
           </a>
         </div>
