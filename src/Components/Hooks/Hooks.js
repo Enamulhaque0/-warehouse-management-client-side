@@ -5,7 +5,7 @@ const useProducts = (refresh) => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    fetch("https://salty-atoll-21303.herokuapp.com/product")
+    fetch("https://secret-dawn-55524.herokuapp.com/ators")
       .then((response) => response.json())
       .then((data) => setProducts(data));
   },[refresh]);

@@ -22,7 +22,7 @@ const AddItem = () => {
     e.target.reset()
     
     const { data } = await axios
-      .post("https://salty-atoll-21303.herokuapp.com/product", product)
+      .post("https://secret-dawn-55524.herokuapp.com/ators", product)
       console.log(data);  
   };
   const { register  } = useForm();

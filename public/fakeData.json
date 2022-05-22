@@ -1,0 +1,29 @@
+[
+    {
+        
+        "name": "mesk ambar",
+        "price": " $60",
+        "quantity": "1000",
+        "supplier": "Badamtoli",
+        "description": "best",
+        "img": "https://i.ibb.co/PYdfsHW/picture10.jpg"
+    },
+    {
+        
+        "name": "Dates",
+        "price": " $30",
+        "quantity": "1500",
+        "supplier": "Zamzam Trading",
+        "description": "best",
+        "img": "https://i.ibb.co/rsfDhrS/picture8.jpg"
+    },
+    {
+        
+        "name": "Vegetables",
+        "price": " $5",
+        "quantity": "10",
+        "supplier": "Modina",
+        "description": "best",
+        "img": "https://i.ibb.co/Bz00g80/picture9.jpg"
+    }
+]

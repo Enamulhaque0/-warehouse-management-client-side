@@ -34,7 +34,7 @@ const ProductDetail = () => {
       const quantity = Number(q) - 1   > 0 ? Number(q) - 1 : 0;
       const updateProduct = {name , price, shortDescription, mainDescription, quantity, image, serviceProvider}
 
-      fetch(`https://salty-atoll-21303.herokuapp.com/product/${id}`, {
+      fetch(`https://secret-dawn-55524.herokuapp.com/ator/${id}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -64,7 +64,7 @@ const ProductDetail = () => {
       const quantity = Number(q) + Number(input) ;
       const updateProduct = {name , price, shortDescription, mainDescription, quantity, image, serviceProvider}
 
-      fetch(`https://salty-atoll-21303.herokuapp.com/product/${id}`, {
+      fetch(`https://secret-dawn-55524.herokuapp.com/ator/${id}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",

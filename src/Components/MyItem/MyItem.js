@@ -8,7 +8,7 @@ const MyItem = () => {
     
     const [user] = useAuthState(auth);
     useEffect(() => {
-        fetch(`https://salty-atoll-21303.herokuapp.com/myitem?email=${user?.email}`,{
+        fetch(`https://secret-dawn-55524.herokuapp.com/myAtors?email=${user?.email}`,{
             headers: {
                 authorization: `Bearer ${localStorage.getItem('accessToken')}`
             }

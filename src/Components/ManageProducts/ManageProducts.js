@@ -10,8 +10,9 @@ const ManageProducts = () => {
     
     const handleDelete = (id) => {
         const proceed = window.confirm("Are you sure you want to delete this item?");
+        console.log(id)
         if(proceed){
-            fetch(`https://salty-atoll-21303.herokuapp.com/product/${id}`, {
+            fetch(`https://secret-dawn-55524.herokuapp.com/ator/${id}`, {
                 method: "DELETE",
             })
             .then(res => res.json())
